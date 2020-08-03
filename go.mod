@@ -1,4 +1,4 @@
-module fixtures
+module github.com/federico-arias/fixtures
 
 go 1.13
 

@@ -2,5 +2,5 @@ Thin wrapper around go-testfxtures.
 
 To install:
 
-1. `go get -u -d`
-2. `go build -o ${HOME}/local/bin` ...
+1. `go get -u -d github.com/federico-arias/fixtures`
+2. `go build -o ${HOME}/local/bin`
